@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\project\Coding samuri\Student_Grade_Calculator\student.h(384,57): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\project\Coding samuri\Student_Grade_Calculator\student.h(390,36): warning C4018: '<': signed/unsigned mismatch
+D:\project\Coding samuri\Student_Grade_Calculator\main.cpp(52,37): warning C4018: '<': signed/unsigned mismatch
+D:\project\Coding samuri\Student_Grade_Calculator\main.cpp(57,37): warning C4018: '<': signed/unsigned mismatch
+D:\project\Coding samuri\Student_Grade_Calculator\main.cpp(169,36): warning C4018: '<': signed/unsigned mismatch
+D:\project\Coding samuri\Student_Grade_Calculator\main.cpp(194,36): warning C4018: '<': signed/unsigned mismatch
+D:\project\Coding samuri\Student_Grade_Calculator\main.cpp(202,53): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+D:\project\Coding samuri\Student_Grade_Calculator\main.cpp(202,43): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  Student_Grade_Calculator.vcxproj -> D:\project\Coding samuri\Student_Grade_Calculator\x64\Debug\Student_Grade_Calculator.exe

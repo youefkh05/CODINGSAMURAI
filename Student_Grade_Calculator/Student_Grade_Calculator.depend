@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1694867642 source:d:\project\coding samuri\student_grade_calculator\main.cpp
+	<iostream>
+	<string.h>
+	"student.h"
+	"function.h"
+
+1694700492 d:\project\coding samuri\student_grade_calculator\student.h
+	"iostream"
+	"function.h"
+	<cctype>
+	<string>
+	<fstream>
+
+1694700226 d:\project\coding samuri\student_grade_calculator\function.h
+	<string>
+	<iostream>
+	<string.h>
+
+1694867568 source:d:\project\coding samuri\student_grade_calculator\function.cpp
+	"function.h"
+	<cmath>
+
